@@ -44,7 +44,7 @@ C:\Users\YourName\Downloads\Organized\
 [MIT License](LICENSE)
 
 ## ✍️ Author
-Allen (script developed with assistance from ChatGPT GPT-4)
+Mobintellect (script developed with assistance from ChatGPT GPT-4)
 
 ## 💡 Original Prompt
 > "I need to write a python program or script that will help me organize my folders in windows by file type. Basically what I want to do, is have the program ask me what folder I want to organize. Then, it takes that folder and moves every file even in the subfolders into a new folder named after the filetype inside."
